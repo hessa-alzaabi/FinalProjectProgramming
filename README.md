@@ -1,12 +1,13 @@
 Registering and logging in:
 ![Image](https://github.com/user-attachments/assets/afe5b421-b558-4469-bc3d-6c8ede033de5)
 
+Booking 2 Single Race Car Tickets:
 ![Image](https://github.com/user-attachments/assets/75c56150-7714-4fac-be18-379e4b4cbb06)
 
-![Image](https://github.com/user-attachments/assets/9f6b6f3c-80fd-4807-a572-50b6761e6bef)
-
+Booking 3 Weekend events tickets
 ![Image](https://github.com/user-attachments/assets/fbe72fc1-4fa3-4851-9b26-958a177dadf3)
 
+Booking 1 season ticket
 ![Image](https://github.com/user-attachments/assets/e009b845-399b-47a8-b702-f8708d67790a)
 
 ![Image](https://github.com/user-attachments/assets/7fdce3bd-90d2-47e8-94d7-1b8ecc553f86)
