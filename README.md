@@ -10,14 +10,17 @@ Booking 3 Weekend events tickets
 Booking 1 season ticket
 ![Image](https://github.com/user-attachments/assets/e009b845-399b-47a8-b702-f8708d67790a)
 
+Booking 6 group tickets and getting a discount
+
 ![Image](https://github.com/user-attachments/assets/7fdce3bd-90d2-47e8-94d7-1b8ecc553f86)
 
-![Image](https://github.com/user-attachments/assets/e8b2f5ff-8223-4675-a864-0b1a6999b354)
-
+Updating the profile details in the Manage Profile tab
 ![Image](https://github.com/user-attachments/assets/dc76b472-618f-470b-8510-209a5f6de083)
 
+Refreshing the orders 
 ![Image](https://github.com/user-attachments/assets/0c66d8f7-0f97-430b-87b4-75d12f9f636b)
 
+Generating the sales report in the Admin Panel tab
 ![Image](https://github.com/user-attachments/assets/c8157399-7647-4983-8017-c91cff6981c5)
 
 ![Image](https://github.com/user-attachments/assets/495989b2-b9b2-48bc-a5fd-0e24eb118aa8)
