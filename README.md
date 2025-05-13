@@ -23,9 +23,9 @@ Refreshing the orders
 Generating the sales report in the Admin Panel tab
 ![Image](https://github.com/user-attachments/assets/c8157399-7647-4983-8017-c91cff6981c5)
 
+Updating the Group discount in the Admin Panel tab
 ![Image](https://github.com/user-attachments/assets/495989b2-b9b2-48bc-a5fd-0e24eb118aa8)
 
-![Image](https://github.com/user-attachments/assets/ac811cfa-51bb-4243-ae62-1e5b361485ac)
 
 ![Image](https://github.com/user-attachments/assets/707a617d-777c-4339-9fca-ffdd551cfb49)
 
